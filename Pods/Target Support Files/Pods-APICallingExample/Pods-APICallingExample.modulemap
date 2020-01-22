@@ -1,6 +1,0 @@
-framework module Pods_APICallingExample {
-  umbrella header "Pods-APICallingExample-umbrella.h"
-
-  export *
-  module * { export * }
-}
